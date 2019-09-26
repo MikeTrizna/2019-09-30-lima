@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Compressed Data Carpentry with Python in Limu, Peru"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Compressed Data Carpentry with Python in Lima, Peru"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Universidad de Ingeniería y Tecnología (UTEC), Jr. Medrano Silva 165, Barranco, Lima, Aula A206"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "pe"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
